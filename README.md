@@ -1,8 +1,8 @@
 # Machine-learning-for-the-comparison-of-synthetic-images
 This master thesis takes place in the context of a rendering exam taken at Politecnico di Torino,
-where students , where students are given a Reference Image and have to reproduce it through
+where students are given a Reference Image and have to reproduce it through
 rendering algorithms. Students are given a Blender file with scene and cameras already set and have
-to configure the correct settings in the 3D scene, such as lighting, textures, and materials. The aim
+to configure the correct settings in the 3D scene, such as lighting, textures,reflections and materials. The aim
 of this thesis is to compare the Reference image given to the student and Render image produced by
 the student, in order to detect the changes occurred, focusing on specific features as lighting,
 position of the texture, transparency of the material, and reflections, using artificial intelligence.
